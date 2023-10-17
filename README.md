@@ -17,8 +17,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
+![Cover](https://github.com/jetrudes/cat-blog/assets/116304474/cc2bdf1b-2d48-463b-bef2-333d6a4a4e56)
+
 <p align="center">
-  <img alt="calendário da copa" src=".github/preview.jpg" width="100%">
+ Foto-Blog
 </p>
 
 ## 🚀 Tecnologias
@@ -26,17 +28,16 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
-- Git e Github
+- Github
 
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da copa de 2022.
+Esse projeto de galeria de fotos é desenvolvido no nível 03 do Explorer, o programa completo da Rocketseat que te leva do zero até sua primeira vaga como dev.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/nWHUby47PIE7pXBEkZMTDO/Untitled?node-id=0%3A1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/bgWPIr3jFzPq88K8NS9QwJ/Fotoblog-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=437-17&mode=design&t=vLGshBiHzOGnHho4-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
